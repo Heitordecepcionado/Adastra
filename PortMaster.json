@@ -1,0 +1,10 @@
+{
+  "id": "adastra",
+  "name": "Adastra",
+  "description": "Visual Novel furry sci-fi em Ren'Py.",
+  "author": "The Echo Project",
+  "version": "1.7",
+  "category": "Visual Novel",
+  "url": "https://echoproject.itch.io/adastra",
+  "exec": "launch.sh"
+}
